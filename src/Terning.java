@@ -1,6 +1,6 @@
 import java.util.Random;
 //For at værdien af terninger, bliver tilfældige
-public class RulTerning {
+public class Terning {
     public static void main(String[] args) {
         // Laver en generator der giver tilfældige værdier
 
