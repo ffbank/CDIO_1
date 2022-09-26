@@ -9,7 +9,7 @@ public class Terning {
 
             int result = r.nextInt(6); // vi sætter tilfældigheden til at være 0 - 5 fordi i nextInt. så ekskludere den værdien man sætter ind, dvs 6
             result++;                           // result++ betyder jeg ligger 1, til resultatet, derfor kan værdien 6 være med
-            System.out.println("Du slog en " + result);
+            System.out.println("slog en " + result);
 
     }
 }
