@@ -1,7 +1,8 @@
+
 import java.util.Random;
 //For at værdien af terninger, bliver tilfældige
 public class Terning {
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         // Laver en generator der giver tilfældige værdier
 
         Random r = new Random();
