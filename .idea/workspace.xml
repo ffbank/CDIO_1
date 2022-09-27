@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0a7dd9-1a70-486b-a2d3-5d09b2d456dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c503eda6-4207-4e6e-906a-2c297d44b9a2" name="Changes" comment="noget terning agtigt">
+      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cdio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RulTerning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,18 +36,25 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef0a7dd9-1a70-486b-a2d3-5d09b2d456dd" name="Changes" comment="" />
+      <changelist id="c503eda6-4207-4e6e-906a-2c297d44b9a2" name="Changes" comment="noget terning agtigt" />
       <created>1664198539328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664198539328</updated>
       <workItem from="1664198821651" duration="2768000" />
+      <workItem from="1664219241948" duration="8000" />
+      <workItem from="1664219394751" duration="502000" />
+      <workItem from="1664220247663" duration="1529000" />
+      <workItem from="1664226864533" duration="96000" />
+      <workItem from="1664265630020" duration="3284000" />
+      <workItem from="1664282936531" duration="7121000" />
     </task>
     <servers />
   </component>
@@ -55,5 +71,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="noget terning agtigt" />
+    <option name="LAST_COMMIT_MESSAGE" value="noget terning agtigt" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CDIO_1$Test1.ic" NAME="Test1 Coverage Results" MODIFIED="1664277117746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
