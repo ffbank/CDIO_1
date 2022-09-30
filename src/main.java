@@ -21,7 +21,7 @@ public class main {
                 P1point = (player.getPoint() + raffle.getPointSum());
                 System.out.println(P1point);
                 if(isPair) {
-                    System.out.println("spiller ");
+                    System.out.println("spiller1 slår igen");
                     continue;
                 }
 
@@ -33,7 +33,10 @@ public class main {
                 System.out.println("Spiller2 får summen:");
                 P2point = (player2.getPoint() + raffle2.getPointSum());
                 System.out.println(P2point);
-                if(isPair)continue;
+                if(isPair) {
+                    System.out.println("spiller2 slår igen");
+                    continue;
+                }
             }
             isP1 = !isP1;
 
