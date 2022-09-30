@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0a7dd9-1a70-486b-a2d3-5d09b2d456dd" name="Changes" comment="Officielt færdiggjort med test af 1000 terningkast">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDIO_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CDIO_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Terning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terning.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef0a7dd9-1a70-486b-a2d3-5d09b2d456dd" name="Changes" comment="Officielt færdiggjort med test af 1000 terningkast" />
     <list id="58047991-ec81-497d-b821-38bb3341f7b7" name="Changes by frederikbank" comment="Changes by frederikbank" />
     <list id="237d63c1-7368-4a88-a3ab-5adda1e7714d" name="Changes by Nicol" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664549999170</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Officielt færdiggjort med test af 1000 terningkast">
+      <created>1664556843464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664556843464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

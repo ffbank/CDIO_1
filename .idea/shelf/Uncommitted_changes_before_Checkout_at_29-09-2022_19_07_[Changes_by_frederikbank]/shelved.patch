@@ -1,0 +1,22 @@
+Index: src/terning2.java
+===================================================================
+diff --git a/src/terning2.java b/src/terning2.java
+deleted file mode 100644
+--- a/src/terning2.java	(revision ec13f9cfca3b05078485e7a792e83291c99bc94d)
++++ /dev/null	(revision ec13f9cfca3b05078485e7a792e83291c99bc94d)
+@@ -1,15 +0,0 @@
+-import java.util.Random;
+-//For at værdien af terninger, bliver tilfældige
+-public class terning2 {
+-    public static void main (String[] args) {
+-        // Laver en generator der giver tilfældige værdier
+-
+-        Random r = new Random();
+-
+-        int result = r.nextInt(6); // vi sætter tilfældigheden til at være 0 - 5 fordi i nextInt. så ekskludere den værdien man sætter ind, dvs 6
+-        result++;                           // result++ betyder jeg ligger 1, til resultatet, derfor kan værdien 6 være med
+-        System.out.println("slog en " + result);
+-
+-    }
+-}
+-
