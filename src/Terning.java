@@ -1,3 +1,4 @@
+// Java Software Solutions, Listing 4.2, Lewis Loftus, side 181
 public class Terning
 {
     private final int MAX = 6;  // maximum face value
